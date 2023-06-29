@@ -3,7 +3,7 @@
 prequisite for run this project is you should have installed nodeJS, momgoDB and VsCode in you machine if not please install them first.
 After installing all prequisite you just need to clone the project by entering command
 ```
-git clone [URL]
+git clone https://github.com/ashishpal07/webelight.git
 ```
 or you can download repository zip file and extract it 
 Then after this you will see an webelight folder now, open this webelight folder into your VsCode editor no you can open terminal in VsCode and write / paste below command
